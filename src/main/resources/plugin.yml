@@ -1,0 +1,9 @@
+name: BlockLook
+version: '${version}'
+main: com.eazyftw.blocklook.BlockLook
+api-version: 1.18
+authors: [ EazyFTW ]
+description: Shows you what block you're looking at!
+commands:
+  blocklook:
+    description: Toggle the action bar or reload the plugin!

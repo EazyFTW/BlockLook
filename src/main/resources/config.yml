@@ -1,0 +1,13 @@
+#BlockLook's prefix. (string)
+Prefix: "§6§lBlockLook§8»§7 "
+
+#Should block look default on for everyone? (boolean)
+DefaultOn: false
+
+#How often the plugin checks players target block. (long)
+TargetBlockCheck: 5
+#The distance the check will go. (int)
+TargetDistance: 8
+
+#The action bar message. (string)
+Message: §a§l%block%
